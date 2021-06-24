@@ -1,0 +1,747 @@
+[{
+        "id": 1,
+        "brand": "Afia",
+        "title": "Aficips Acılı Mısır Cipsi 50 gr",
+        "price": 2.5,
+        "name": "Cips",
+        "comments": [{
+                "id": 1,
+                "text": "Harika !",
+                "kullanici": "xyz2@gmail.com",
+                "baslik": "SÜPER"
+            },
+            {
+                "id": 2,
+                "text": "Helal Olsun Afia !",
+                "baslik": "BEĞENDİM",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 3,
+                "text": "İlk defa böyle bir şey yedim Helal AFiA !",
+                "baslik": "GÜZEL",
+                "kullanici": "xyz3@gmail.com"
+            },
+            {
+                "id": 4,
+                "text": "Muhteşem !",
+                "baslik": "İYİ",
+                "kullanici": "a"
+            },
+            {
+                "id": 5,
+                "text": "İDEAL ÜRÜN",
+                "kullanici": "a",
+                "baslik": "BENCE GÜZEL"
+            },
+            {
+                "id": 6,
+                "text": "SADASD",
+                "kullanici": "a",
+                "baslik": "ASDAS"
+            },
+            {
+                "id": 7,
+                "text": "DASDAD",
+                "kullanici": "Anonim",
+                "baslik": "ASDADAS"
+            },
+            {
+                "id": 8,
+                "text": "ASDASDA",
+                "kullanici": "a",
+                "baslik": "SADASD"
+            },
+            {
+                "id": 9,
+                "text": "ASDASDASD",
+                "kullanici": "a",
+                "baslik": "BEĞENDİM"
+            },
+            {
+                "id": 10,
+                "text": "dasdad",
+                "kullanici": "a",
+                "baslik": "sadad"
+            },
+            {
+                "id": 11,
+                "text": "dasdad",
+                "kullanici": "a",
+                "baslik": "sadad"
+            },
+            {
+                "id": 12,
+                "text": "dasdad",
+                "kullanici": "a",
+                "baslik": "fdg"
+            },
+            {
+                "id": 13,
+                "text": "dasdad",
+                "kullanici": "a",
+                "baslik": "fdg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "brand": "Afia",
+        "title": "Aficips Peynirli Mısır Cipsi 50 gr",
+        "name": "Cips",
+        "price": 2.5,
+        "comments": [{
+                "id": 1,
+                "text": "Hoşuma Gitmedi !",
+                "baslik": "BEĞENMEDİM",
+                "kullanici": "xyz2@gmail.com"
+            },
+            {
+                "id": 2,
+                "text": "Helal Olsun Afia !",
+                "baslik": "MUHTEŞEM",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 3,
+                "text": "İlk defa böyle bir şey yedim Helal AFiA !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz3@gmail.com"
+            },
+            {
+                "id": 4,
+                "text": "Muhteşem !",
+                "baslik": "FENA DEĞİL",
+                "kullanici": "a"
+            },
+            {
+                "id": 5,
+                "text": "dsadasds",
+                "kullanici": "a",
+                "baslik": "dsada"
+            },
+            {
+                "id": 6,
+                "text": "dsadasds",
+                "kullanici": "a",
+                "baslik": "dsada"
+            },
+            {
+                "id": 7,
+                "text": "dsadasds",
+                "kullanici": "a",
+                "baslik": "dsada"
+            },
+            {
+                "id": 8,
+                "text": "dsadasds",
+                "kullanici": "a",
+                "baslik": "dsada"
+            },
+            {
+                "id": 9,
+                "text": "54564",
+                "kullanici": "a",
+                "baslik": "545"
+            },
+            {
+                "id": 10,
+                "text": "54564",
+                "kullanici": "a",
+                "baslik": "545"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "brand": "Afia",
+        "title": "Starbis Bisküvi 55 GR(24 ADET)",
+        "name": "Bisküvi",
+        "price": 34.2,
+        "comments": [{
+                "id": 1,
+                "text": "Harika !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 2,
+                "text": "Helal Olsun Afia !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 3,
+                "text": "İlk defa böyle bir şey yedim Helal AFiA !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz3@gmail.com"
+            },
+            {
+                "id": 4,
+                "text": "Muhteşem !",
+                "baslik": "SÜPER",
+                "kullanici": "a"
+            },
+            {
+                "id": 5,
+                "text": "ffff",
+                "kullanici": "Anonim",
+                "baslik": "bura"
+            },
+            {
+                "id": 6,
+                "text": "ffff",
+                "kullanici": "Anonim",
+                "baslik": "bura"
+            },
+            {
+                "id": 7,
+                "text": "asdad",
+                "kullanici": "Anonim",
+                "baslik": "asdasd"
+            },
+            {
+                "id": 8,
+                "text": "asdad",
+                "kullanici": "Anonim",
+                "baslik": "asdasd"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "brand": "Afia",
+        "title": "Afia Kağıt Helva 40 GR (12 Adet)r",
+        "name": "Helva",
+        "price": 28.2,
+        "comments": [{
+                "id": 1,
+                "text": "Harika !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 2,
+                "text": "Helal Olsun Afia !",
+                "baslik": "BEĞENDİM",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 3,
+                "text": "İlk defa böyle bir şey yedim Helal AFiA !",
+                "baslik": "Hoş",
+                "kullanici": "xyz3@gmail.com"
+            },
+            {
+                "id": 4,
+                "text": "Muhteşem !",
+                "baslik": "güzel",
+                "kullanici": "a"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "brand": "Afia",
+        "title": "Aficips Baharatlı Mısır Cipsi 50 gr",
+        "name": "Cips",
+        "price": 2.5,
+        "comments": [{
+                "id": 1,
+                "text": "Harika !",
+                "baslik": "FENA DEĞİL",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 2,
+                "text": "Helal Olsun Afia !",
+                "baslik": "DEĞER",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 3,
+                "text": "İlk defa böyle bir şey yedim Helal AFiA !",
+                "baslik": "HARİKA",
+                "kullanici": "xyz3@gmail.com"
+            },
+            {
+                "id": 4,
+                "text": "Muhteşem !",
+                "baslik": "SORUN YOK",
+                "kullanici": "a"
+            },
+            {
+                "id": 5,
+                "text": "sadsad",
+                "kullanici": "Anonim",
+                "baslik": "dsada"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "brand": "Millat Çikolata",
+        "title": "Milat Prime Life Madlen Çikolata 200 GR",
+        "name": "Çikolata",
+        "price": 19.9,
+        "comments": [{
+                "id": 1,
+                "text": "GÜZEL ÜRÜN",
+                "kullanici": "Anonim",
+                "baslik": "BEĞENDİM"
+            },
+            {
+                "id": 2,
+                "text": "Ürün Geç ulaştı",
+                "kullanici": "a",
+                "baslik": "Çok iyi Değil"
+            },
+            {
+                "id": 3,
+                "text": "Ürün Geç ulaştı",
+                "kullanici": "a",
+                "baslik": "Çok iyi Değil"
+            },
+            {
+                "id": 4,
+                "text": "asdada",
+                "kullanici": "a",
+                "baslik": "dasd"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "brand": "Poloxin",
+        "title": "Paloxin Wipe Mendil (30 Adet)",
+        "name": "Mendil",
+        "price": 29.9,
+        "comments": []
+    },
+    {
+        "id": 8,
+        "brand": "Afia",
+        "title": "Susamlı Çubuk Kraker 100 Gr",
+        "name": "Kraker",
+        "price": 2.75,
+        "comments": [{
+                "id": 1,
+                "text": "Harika !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz2@gmail.com"
+            },
+            {
+                "id": 2,
+                "text": "Helal Olsun Afia !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 3,
+                "text": "İlk defa böyle bir şey yedim Helal AFiA !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz3@gmail.com"
+            },
+            {
+                "id": 4,
+                "text": "Muhteşem !",
+                "baslik": "SÜPER",
+                "kullanici": "a"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "brand": "Afia",
+        "title": " Yulaflı Bisküvi 120 GR 24 Adet",
+        "name": "Bisküvi",
+        "price": 27,
+        "comments": []
+    },
+    {
+        "id": 10,
+        "brand": "Afia",
+        "title": "Susamlı Çubuk Kraker 100 Gr x 10 Adet",
+        "name": "Kraker",
+        "price": 26.67,
+        "comments": []
+    },
+    {
+        "id": 11,
+        "brand": "Afia",
+        "title": "Tuzlu Çubuk Kraker (100 Gr)",
+        "name": "Kraker",
+        "price": 2.75,
+        "comments": [{
+                "id": 1,
+                "text": "Harika !",
+                "baslik": "SÜPER",
+                "kullanici": "a"
+            },
+            {
+                "id": 2,
+                "text": "Helal Olsun Afia !",
+                "baslik": "İŞTE BU !",
+                "kullanici": "xyz2@gmail.com"
+            },
+            {
+                "id": 3,
+                "text": "İlk defa böyle bir şey yedim Helal AFiA !",
+                "baslik": "GÜZEL",
+                "kullanici": "xyz3@gmail.com"
+            },
+            {
+                "id": 4,
+                "text": "Muhteşem !",
+                "baslik": "SÜPER",
+                "kullanici": "a"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "brand": "Afia",
+        "title": "Tuzlu Çubuk Kraker (100 Gr x 12 Adet)",
+        "name": "Kraker",
+        "price": 32.01,
+        "comments": []
+    },
+    {
+        "id": 13,
+        "brand": "Afia",
+        "title": "Tuzlu Çubuk Kraker (100 Gr x 24 Adet)",
+        "name": "Kraker",
+        "price": 62.7,
+        "comments": [{
+                "id": 1,
+                "text": "Harika !",
+                "baslik": "ALLAH RAZI OLSUN",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 2,
+                "text": "Helal Olsun Afia !",
+                "baslik": "HELAL SİZE",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 3,
+                "text": "İlk defa böyle bir şey yedim Helal AFiA !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz3@gmail.com"
+            },
+            {
+                "id": 4,
+                "text": "Muhteşem !",
+                "baslik": "HELAL OLSUN",
+                "kullanici": "a"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "brand": "Afia",
+        "title": "Tatlı Dost 5 Çeşit",
+        "name": "Gofret",
+        "price": 18.53,
+        "comments": []
+    },
+    {
+        "id": 15,
+        "brand": "Afia",
+        "title": "Tatlı Dost Vanilya Kremalı Gofret 150 Gr (5 Adet)",
+        "name": "Gofret",
+        "price": 18.53,
+        "comments": [{
+                "id": 1,
+                "text": "Harika !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 2,
+                "text": "Helal Olsun Afia !",
+                "baslik": "ÇOK İYİ",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 3,
+                "text": "İlk defa böyle bir şey yedim Helal AFiA !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz3@gmail.com"
+            },
+            {
+                "id": 4,
+                "text": "Muhteşem !",
+                "baslik": "İYİ",
+                "kullanici": "a"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "brand": "Afia",
+        "title": "Tatlı Dost Muzlu Kremalı Gofret 150 Gr (5 Adet)",
+        "name": "Gofret",
+        "price": 18.53,
+        "comments": [{
+                "id": 1,
+                "text": "Harika !",
+                "baslik": "HARİKA",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 2,
+                "text": "Helal Olsun Afia !",
+                "baslik": "BEĞENDİM",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 3,
+                "text": "İlk defa böyle bir şey yedim Helal AFiA !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz3@gmail.com"
+            },
+            {
+                "id": 4,
+                "text": "Muhteşem !",
+                "baslik": "DEĞERLİ",
+                "kullanici": "a"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "brand": "Afia",
+        "title": "Tatlı Dost Fındıklı Kremalı Kakaolu Gofret 150 Gr (5 Adet)",
+        "name": "Gofret",
+        "price": 18.53,
+        "comments": [{
+                "id": 1,
+                "text": "sdadasd",
+                "kullanici": "a",
+                "baslik": "dasdad"
+            },
+            {
+                "id": 2,
+                "text": "sdadasd",
+                "kullanici": "a",
+                "baslik": "dasdad"
+            },
+            {
+                "id": 3,
+                "text": "sdadasd",
+                "kullanici": "a",
+                "baslik": "dasdad"
+            },
+            {
+                "id": 4,
+                "text": "sdadasd",
+                "kullanici": "a",
+                "baslik": "dasdad"
+            },
+            {
+                "id": 5,
+                "text": "sadasd",
+                "kullanici": "a",
+                "baslik": "asdasd"
+            },
+            {
+                "id": 6,
+                "text": "sadasd",
+                "kullanici": "a",
+                "baslik": "asdasd"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "brand": "Afia",
+        "title": "Tatlı Dost Fındıklı Kremalı Kakaolu Gofret 150 Gr",
+        "name": "Gofret",
+        "price": 3.9,
+        "comments": []
+    },
+    {
+        "id": 19,
+        "brand": "Afia",
+        "title": "Tatbis Bisküvi 55 GR(24 Adet)",
+        "name": "Bisküvi",
+        "price": 34.2,
+        "comments": [{
+                "id": 1,
+                "text": "Harika !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 2,
+                "text": "Helal Olsun Afia !",
+                "baslik": "KALİTELİ",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 3,
+                "baslik": "SÜPER",
+                "text": "İlk defa böyle bir şey yedim Helal AFiA !",
+                "kullanici": "xyz3@gmail.com"
+            },
+            {
+                "id": 4,
+                "baslik": "SÜPER",
+                "text": "Muhteşem !",
+                "kullanici": "a"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "brand": "Afia",
+        "baslik": "SÜPER",
+        "title": "Albence Tuzlu Peynirli Kraker 70 Gr*24 Adet",
+        "name": "Kraker",
+        "price": 34.2,
+        "comments": []
+    },
+    {
+        "id": 21,
+        "brand": "Afia",
+        "baslik": "SÜPER",
+        "title": "Tatbis Bisküvi 55 GR(12 Adet)",
+        "name": "Bisküvi",
+        "price": 17.46,
+        "comments": [{
+                "id": 1,
+                "text": "Harika !",
+                "baslik": "İŞTE BU ",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 2,
+                "text": "Helal Olsun Afia !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 3,
+                "text": "İlk defa böyle bir şey yedim Helal AFiA !",
+                "baslik": "HOŞUMA GİTTİ",
+                "kullanici": "xyz3@gmail.com"
+            },
+            {
+                "id": 4,
+                "text": "Muhteşem !",
+                "baslik": "SÜPER",
+                "kullanici": "a"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "brand": "Afia",
+        "title": "Petibör Bisküvi 160GR",
+        "name": "Bisküvi",
+        "price": 2.5,
+        "comments": []
+    },
+    {
+        "id": 23,
+        "brand": "Afia",
+        "title": "Bebe Bisküvisi 150 GR x 12 Adet",
+        "name": "Bisküvi",
+        "price": 33.76,
+        "comments": []
+    },
+    {
+        "id": 24,
+        "brand": "Afia",
+        "title": "Albence Tuzlu Peynirli Kraker 70 Gr",
+        "name": "Kraker",
+        "price": 1.5,
+        "comments": [{
+                "id": 1,
+                "text": "Harika !",
+                "baslik": "KALİTELİ",
+                "kullanici": "xyz @gmail.com"
+            },
+            {
+                "id": 2,
+                "text": "Helal Olsun Afia !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz2@gmail.com"
+            },
+            {
+                "id": 3,
+                "text": "İlk defa böyle bir şey yedim Helal AFiA !",
+                "baslik": "BEĞENDİM",
+                "kullanici": "xyz3@gmail.com"
+            },
+            {
+                "id": 4,
+                "text": "Muhteşem !",
+                "baslik": "SÜPER",
+                "kullanici": "a"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "brand": "Afia",
+        "title": "Starbis Bisküvi 55 GR",
+        "name": "Bisküvi",
+        "price": 1.5,
+        "comments": []
+    },
+    {
+        "id": 26,
+        "brand": "Afia",
+        "title": "Başakköy Yulaflı Bisküvi 120 GR 24 Adet",
+        "name": "Bisküvi",
+        "price": 57,
+        "comments": []
+    },
+    {
+        "id": 27,
+        "brand": "Afia",
+        "title": "Başakköy Yulaflı Bisküvi 120 GR",
+        "name": "Bisküvi",
+        "price": 2.5,
+        "comments": [{
+                "id": 1,
+                "text": "Harika !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz2 @gmail.com"
+            },
+            {
+                "id": 2,
+                "text": "Helal Olsun Afia !",
+                "baslik": "GÜZEL",
+                "kullanici": "xyz3 @gmail.com"
+            },
+            {
+                "id": 3,
+                "text": "İlk defa böyle bir şey yedim Helal AFiA !",
+                "baslik": "SÜPER",
+                "kullanici": "xyz4@gmail.com"
+            },
+            {
+                "id": 4,
+                "text": "Muhteşem !",
+                "baslik": "DEĞER",
+                "kullanici": "xyz@gmail.com"
+            },
+            {
+                "id": 5,
+                "text": "aaaaaaaaaaaaaaa",
+                "kullanici": "a",
+                "baslik": "asd"
+            },
+            {
+                "id": 6,
+                "text": "aaaaaaaaaaaaaaa",
+                "kullanici": "a",
+                "baslik": "asd"
+            }
+        ]
+    }
+]
